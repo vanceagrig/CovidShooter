@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - GameUi
+  - BossLifeBar
+  - Rifle
+  - Pistol
+  - Grenade
+  - Ground
+  - AimCamera
+  - BtnEndurance
+  - SaveSystem
+  - StartSpawnLocation
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Acid
+  - Water
+  - UI
+  - BodyMuscles
+  - BodyScheleton
+  - PostProcessing
+  - Weapon
+  - Target
+  - Projectile
+  - Player
+  - PlayerCollisionOnly
+  - XRayPostProcessing
+  - Map
+  - Ground
+  - Projectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 185186025
+    locked: 0
